@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  DreamLister
 //
-//  Created by Jonny B on 8/16/16.
-//  Copyright © 2016 Jonny B. All rights reserved.
+//  Created by Brandon Byrne on 2016-11-22.
+//  Copyright © 2016 ZeahSoft. All rights reserved.
 //
 
 import UIKit
@@ -93,6 +93,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 let ad = UIApplication.shared.delegate as! AppDelegate
 let context = ad.persistentContainer.viewContext
+
+
+
+
+
 
 
 
