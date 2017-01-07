@@ -13,3 +13,4 @@ Once multiple items are saved, iOS Core Data can be used to sort it by newest ad
 
 ![Alt Text](https://github.com/Brandon9721/DreamLister/blob/master/ItemAddedToHomeScreen.png)  
 
+![Alt Text](https://github.com/Brandon9721/DreamLister/blob/master/CoreDataSorts.png)
